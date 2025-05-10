@@ -1,4 +1,12 @@
 # Proper-Capitalisation-of-Words
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![NLP](https://img.shields.io/badge/NLP-Truecasing%20%26%20POS-green)
+![StanfordNLP](https://img.shields.io/badge/Library-StanfordNLP-blue)
+![NLTK](https://img.shields.io/badge/Library-NLTK-yellow)
+![Task](https://img.shields.io/badge/Task-Text%20Normalization-lightgrey)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🧠 Truecasing and POS-based Word Capitalization using StanfordNLP
 
 This project showcases a text normalization pipeline that transforms raw, lowercase sentences into properly formatted text using NLP techniques. Specifically, it applies **truecasing** (capitalizing the first word of each sentence) and **part-of-speech (POS) based capitalization** using StanfordNLP.
